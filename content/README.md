@@ -12,15 +12,16 @@
 
   ## Description:
     ISC
-    This program will allow the user to create a professional readme.md within the terminal for their project.
+    This program will allow the user to create a professional readme.md for their project within the terminal.
 
   ## Installation:
     npm install
 
   ## Usage:
-    The user will open their terminal and navigate to their files. Then they will run node js.
+    The user will open their terminal, navigate to their appropriate files and then run node.js.
 
   ## License:
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
     ISC
 
   ## Contribution:
