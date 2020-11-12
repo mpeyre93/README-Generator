@@ -1,24 +1,24 @@
-# README-Generator
+# READEME-Generator
 
   ## Table of Contents
 
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contribution](#contribution)
-  -[Test](#test)
-  -[Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Test](#test)
+  * [Questions](#questions)
 
   ## Description:
     
-    This progam allows users to create a professional readme.md for any project by inputting criteria.
+    This program will allow the user to create a professional readme.md within the terminal for their project.
 
   ## Installation:
-    User must install npm.
+    npm install
 
   ## Usage:
-    User will open their terminal and navigate to appropriate file, then just node js.
+    The user will open their terminal and navigate to their files. Then they will run node.js
 
   ## License:
     
@@ -32,6 +32,6 @@
   ## Questions:
    For questions about this README generator, you can visit my GitHub page using the following link:
   
-   GitHub Profile - https://github.com/mpeyre93
+  GitHub Profile - https://github.com/mpeyre93
 
   Also, for additional questions, feel free to contact me via email at: marlee.eyre@gmail.com

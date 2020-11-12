@@ -10,7 +10,7 @@ The application will be invoked with the following command:
 node index.js
 ```
 
-Because this is a command-line application that won’t be deployed, you’ll also find a link to a walkthrough video that demonstrates the functionality of the application.
+Because this is a command-line application that won’t be deployed, you’ll also find a link a walkthrough video that demonstrates the functionality of the application located in the Images folder.
 
 ## Criteria
 
@@ -42,13 +42,9 @@ When the user clicks on the links in the Table of Contents they are taken to the
 * The generated README includes 1 badge that's specific to the repository.
 
 
-## Submission Requirements
-
-Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include a video showing us that you got the app working with no bugs. You should include a link to the video in your application's `README.md` file.
-
-
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 ![README.md terminal screenshots](/Images/terminalScreenshot.png?raw=true)
+
+Video of running application can be found in the Images folder as well as the following link: (https://drive.google.com/file/d/1-CeAGMtBiG6A1sbTW0ZE3oz3niyquQTr/view)
 
 Sample README.md file is located in the contents folder.
