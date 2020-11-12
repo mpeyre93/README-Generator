@@ -1,4 +1,4 @@
-# READEME-Generator
+# README-Generator
 
   ## Table of Contents
 
@@ -11,23 +11,23 @@
   * [Questions](#questions)
 
   ## Description:
-    
+    ISC
     This program will allow the user to create a professional readme.md within the terminal for their project.
 
   ## Installation:
     npm install
 
   ## Usage:
-    The user will open their terminal and navigate to their files. Then they will run node.js
+    The user will open their terminal and navigate to their files. Then they will run node js.
 
   ## License:
-    
+    ISC
 
   ## Contribution:
     Marlee Eyre
 
   ## Test:
-    n/a
+    N/A
 
   ## Questions:
    For questions about this README generator, you can visit my GitHub page using the following link:
