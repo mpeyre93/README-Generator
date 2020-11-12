@@ -1,7 +1,6 @@
 # README-Generator
 
-  #Table of Contents
-
+  ## Table of Contents
 
   -[Description](#description)
   -[Installation](#installation)
@@ -14,25 +13,25 @@
 
   ## Description:
     
-    This program allows user to create a README.md file using node in the terminal.
+    This progam allows users to create a professional readme.md for any project by inputting criteria.
 
-  ##Installation:
-    use terminal to navigate to files, install nmp, and run node.js
+  ## Installation:
+    User must install npm.
 
-  ##Usage
-    this program is run within the terminal using node js
+  ## Usage:
+    User will open their terminal and navigate to appropriate file, then just node js.
 
-  ##License
+  ## License:
     
 
-  ##Contribution
+  ## Contribution:
     Marlee Eyre
 
-  ##Test
+  ## Test:
     n/a
 
-  ##Questions - For questions about this README generator, you can visit my GitHub page using the following link:
+  ## Questions - For questions about this README generator, you can visit my GitHub page using the following link:
   
-    -[GitHub Profile](https://github.com/mpeyre93)
+    ![GitHub Profile](https://github.com/mpeyre93)
 
-    For additional questions feel free to contact me via email at : marlee.eyre@gmail.com.
+    For additional questions feel free to contact me via email at: marlee.eyre@gmail.com
