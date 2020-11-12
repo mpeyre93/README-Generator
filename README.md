@@ -27,10 +27,6 @@ TH user then enters their email address, which this is added to the section of t
 When the user clicks on the links in the Table of Contents they are taken to the corresponding section of the README.
 ```
 
-## Minimum Application Requirements
-
-* Meets [Submission Requirements](#submission-requirements) in the following section.
-
 * This generated README includes the following sections: 
 
   * Title
@@ -58,16 +54,6 @@ Because this is a CLI App, there will be no need to deploy it to Heroku. This ti
 
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
-![README.md terminal screenshots](screenshots.png?raw=true)
+![README.md terminal screenshots](terminalScreenshot.png?raw=true)
 
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* A walkthrough video demonstrating the functionality of the application. 
-
-* A sample README.md file for a project repository generated using your application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+Sample README.md file is located in the contents folder.
