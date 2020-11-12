@@ -2,8 +2,7 @@
 function generateMarkdown(response) {
   return `# ${response.title}
 
-  #Table of Contents
-
+  ## Table of Contents
 
   -[Description](#description)
   -[Installation](#installation)
@@ -18,26 +17,26 @@ function generateMarkdown(response) {
     ${response.license}
     ${response.description}
 
-  ##Installation:
+  ## Installation:
     ${response.installation}
 
-  ##Usage
+  ## Usage:
     ${response.usage}
 
-  ##License
+  ## License:
     ${response.license}
 
-  ##Contribution
+  ## Contribution:
     ${response.contribution}
 
-  ##Test
+  ## Test:
     ${response.test}
 
-  ##Questions - For questions about this README generator, you can visit my GitHub page using the following link:
+  ## Questions - For questions about this README generator, you can visit my GitHub page using the following link:
   
-    -[GitHub Profile](https://github.com/${response.username})
+    ![GitHub Profile](https://github.com/${response.username})
 
-    For additional questions feel free to contact me via email at : ${response.email}.
+    For additional questions feel free to contact me via email at: ${response.email}
 `;
 }
 
