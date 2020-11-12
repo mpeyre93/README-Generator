@@ -9,7 +9,6 @@
   -[Contribution](#contribution)
   -[Test](#test)
   -[Questions](#questions)
-  -[Contact](#email,#username)
 
   ## Description:
     
@@ -30,8 +29,9 @@
   ## Test:
     n/a
 
-  ## Questions - For questions about this README generator, you can visit my GitHub page using the following link:
+  ## Questions:
+   For questions about this README generator, you can visit my GitHub page using the following link:
   
-    ![GitHub Profile](https://github.com/mpeyre93)
+   GitHub Profile - https://github.com/mpeyre93
 
-    For additional questions feel free to contact me via email at: marlee.eyre@gmail.com
+  Also, for additional questions, feel free to contact me via email at: marlee.eyre@gmail.com

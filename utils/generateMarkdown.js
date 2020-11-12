@@ -31,11 +31,12 @@ function generateMarkdown(response) {
   ## Test:
     ${response.test}
 
-  ## Questions - For questions about this README generator, you can visit my GitHub page using the following link:
+  ## Questions:
+   For questions about this README generator, you can visit my GitHub page using the following link:
   
-    ![GitHub Profile](https://github.com/${response.username})
+  GitHub Profile - https://github.com/${response.username}
 
-    For additional questions feel free to contact me via email at: ${response.email}
+  Also, for additional questions, feel free to contact me via email at: ${response.email}
 `;
 }
 
